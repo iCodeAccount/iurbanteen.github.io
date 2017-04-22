@@ -4,7 +4,7 @@
   border-color: black;
   border-width: 1px;
   border-style: solid;
-  background-color: #0ca7ce;
+  background-image: url("gamebackground.jpg");
 }
 html, body {
   height: 100%;
