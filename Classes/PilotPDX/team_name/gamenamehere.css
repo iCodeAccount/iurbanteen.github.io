@@ -8,3 +8,14 @@ html, body {
   width: 100%;
   margin: 0px;
 }
+div#scratch {
+  border: 1px solid black;
+  height: 10px;
+  border-radius: 5px;
+  display: block;
+}
+#progress {
+  background-color: #0000AA;
+  width: 50%;
+  height: 100%;
+}
