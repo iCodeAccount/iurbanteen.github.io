@@ -19,3 +19,13 @@ div#scratch {
   width: 50%;
   height: 100%;
 }
+@keyframes names {
+  0% {color: #FFFFFF;}
+  50% {color: #EEEEEE;}
+  100% {color: #FFFFFF}
+}
+.names {
+ animation-name: names;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+}
